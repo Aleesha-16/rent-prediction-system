@@ -71,7 +71,6 @@ Rent-Prediction-System/
 
 ## 🌐 Live Demo
 
-Add your Render deployment link here:
 
 ```text
 https://rent-prediction-system.onrender.com
